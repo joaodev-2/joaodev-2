@@ -17,6 +17,4 @@
 - Email: joaopvic1@gmail.com  
 - LinkedIn: [www.linkedin.com/in/joaopedropvic](https://linkedin.com/in/joaopedropvic)
 
----
-
 🧠 “Learning never exhausts the mind.” – Leonardo da Vinci

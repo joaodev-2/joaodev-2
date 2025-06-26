@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi! I'm João Pedro
 
-<!--
-**joaodev-2/joaodev-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Majoring Information Systems | 💻 Back-End Developer in training  
+💡 Passionate about technology, continuous learning, and building creative solutions
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack
+- **Backend:** Node.js, MongoDB, PHP (Laravel) 
+- **Testing:** PHPUnit, PEST (PHP)  
+- **Others:** Firebase, Docker, Git, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Software Architecture (DDD, Clean Code)  
+- Cybersecurity (LGPD, Encryption)  
+- API integrations and payment systems
+
+### 📫 Contact
+- Email: joaopvic1@gmail.com  
+- LinkedIn: [www.linkedin.com/in/joaopedropvic](https://linkedin.com/in/joaopedrodev)
+
+---
+
+🧠 “Learning never exhausts the mind.” – Leonardo da Vinci
